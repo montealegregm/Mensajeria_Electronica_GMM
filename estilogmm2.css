@@ -1,0 +1,26 @@
+header {
+    height: 50px;
+    border: 1px greenyellow solid;
+    color: darkblue;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    background: linear-gradient(yellowgreen, green);
+} 
+
+.margen {
+    height: 300px;
+    border: 2px greenyellow dotted;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace; 
+    background-color: rgb(220, 243, 220);
+    margin: 15px 700px 100px 700px;
+}
+
+
+nav {
+    font-size: 15px;
+    
+}
